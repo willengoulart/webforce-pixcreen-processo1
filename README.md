@@ -61,4 +61,5 @@ http://www.wampserver.com/en/
 - As atividades exigem mais do que você sabe e nossa intenção não é que você finalize, mas o quanto você conseguiu avançar na tarefa proposta.
 - Use a internet a seu favor. Você é livre pra buscar aquilo que tem dúvida e não sabe. Google e StackOverflow são seus amigos.
 - Envie seu código mesmo que não esteja completamente funcional. Comente suas dificuldades no código. Vamos levar em conta todo o seu esforço.
+- A atividade  aberta à sua interpretação e melhoria. Se algo não ficou claro, você pode fazer como entendeu e comentar no seu código, assim como utilizar outras ferramentas mais complexas.
 - Entregue seu código em um repositório público do GitHub e nos mande o link. Faça commits pequenos mostrando o quanto você caminhou.
