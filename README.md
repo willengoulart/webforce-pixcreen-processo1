@@ -4,7 +4,7 @@ Para a atividade de seleção, você deve criar uma página web que carregue
 dinamicamente os Assuntos disponíveis atualmente no Pixcreen.
 
 Além do assunto, a página deve conter o Prêmio em dinheiro e a meta.
-Para assuntos que tem topic_id maior ou igual do que 400, você deverá usar a cor presente em subject_color para estilizar o assunto.
+Para assuntos que tem topic_id maior ou igual do que 400, você deverá usar a cor presente em subject_color para estilizar a cor de fundo do assunto.
 
 Essas informações devem ser acessadas por requisição AJAX via Axios.
 Para isso, basta fazer uma requisição GET para a URL: https://pixcreen.com/topics/json/
@@ -12,6 +12,7 @@ Para isso, basta fazer uma requisição GET para a URL: https://pixcreen.com/top
 Para fazer a chamada Ajax, e popular os dados na página que criou, você pode usar VueJS. Será um diferencial.
 
 Use o Bootstrap como base para o seu CSS e faça alterações usando seus conhecimentos em CSS.
+Como base para listar os assuntos, você pode usar o Card (https://getbootstrap.com/docs/4.0/components/card/) ou o List Group (https://getbootstrap.com/docs/4.0/components/list-group/)
 
 ### Links Úteis
 https://getbootstrap.com/docs/4.1/getting-started/introduction/
